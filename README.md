@@ -35,7 +35,7 @@ Dataset Source: Seaborn Built-in Dataset
  
 ```python
 #import seaborn as sns
-df = sns.load_dataset("taxis")
+#df = sns.load_dataset("taxis")
 
 ## Data Cleaning
 
