@@ -34,7 +34,7 @@ The project utilizes Pandas, Matplotlib, and Seaborn to generate meaningful visu
 Dataset Source: Seaborn Built-in Dataset
  
 ```python
-import seaborn as sns
+#import seaborn as sns
 df = sns.load_dataset("taxis")
 
 ## Data Cleaning
