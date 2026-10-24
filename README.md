@@ -38,20 +38,21 @@ Dataset Source: Seaborn Built-in Dataset
 #df = sns.load_dataset("taxis")
 
 ## Data Cleaning
-
 The following preprocessing steps were performed:
 
 Checked for missing values.
+
 Identified numerical and categorical columns.
 Imputed numerical columns using median values.
 Imputed categorical columns using mode values.
 Verified dataset integrity after treatment.
 ## Visualizations Created
-### 1. Line Chart
+
+ 1. Line Chart
 Visualized fare trends over pickup time.
-### 2. Bar Chart
+ 2. Bar Chart
 Compared total fare across pickup boroughs.
-### 3. Pie Chart
+ 3. Pie Chart
 Displayed distribution of payment methods.
 ### 4. Histogram
 Analyzed distribution of trip distances.
