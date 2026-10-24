@@ -54,29 +54,31 @@ Visualized fare trends over pickup time.
 Compared total fare across pickup boroughs.
  3. Pie Chart
 Displayed distribution of payment methods.
-### 4. Histogram
+ 4. Histogram
 Analyzed distribution of trip distances.
-### 5. Box Plot
+ 5. Box Plot
 Examined tip distributions across pickup boroughs.
-### 6. Count Plot
+ 6. Count Plot
 Counted trips by pickup borough.
-### 7. Scatter Plot
+ 7. Scatter Plot
 Explored relationship between distance and fare.
-### 8. Heatmap
+ 8. Heatmap
 Analyzed correlations between numerical features.
-### 9. Pair Plot
+ 9. Pair Plot
 Visualized pairwise relationships among selected variables.
-### 10. Violin Plot
+ 10. Violin Plot
 Compared fare distributions across payment methods.
 
-### Key Insights
+ Key Insights
+
 Fare generally increases with trip distance.
 Certain boroughs contribute higher total fares.
 Payment methods show varying fare distributions.
 Strong positive correlation exists between fare and total amount.
 Tip amounts vary across pickup boroughs.
 
-### Project Structure
+ Project Structure
+
 Plain Text
 Taxi-Data-Visualization-Python/
 │
@@ -87,14 +89,16 @@ Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
-### Data Cleaning
+ Data Cleaning
+
 Exploratory Data Analysis (EDA)
 Data Visualization
 Handling Missing Values
 Correlation Analysis
 Python for Data Analytics
 
-### Author
+
+Author
 
 Deenu Joy
 
